@@ -30,7 +30,7 @@ import {
    API
 ========================================================= */
 
-const API_URL = "https://askmypdf-backend-4enb.onrender.com".replace(/\/+$/, "");
+const API_URL = "https://askmypdf-backend-4enb.onrender.com";
 
 /* =========================================================
    TYPES
